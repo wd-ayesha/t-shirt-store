@@ -1,0 +1,9 @@
+.product-cart{
+    border: 2px solid lightcoral;
+    padding: 8px;
+    border-radius: 10px;
+}
+.product-cart img{
+    width: 200px;
+    border-radius: 10px;
+}
